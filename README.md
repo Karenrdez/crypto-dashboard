@@ -4,7 +4,7 @@ Dashboard interactivo de criptomonedas construido con React, TypeScript y Chart.
 
 ## Demo en vivo
 
-🔗 [Ver demo](#)
+ [Ver demo](https://karenrdez.github.io/crypto-dashboard/)
 
 ## Capturas de pantalla
 
